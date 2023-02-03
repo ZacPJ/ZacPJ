@@ -1,4 +1,6 @@
-### Hi there 👋
+## Welcome!
+-I am currently learning Java development with [Sparta Global](https://www.spartaglobal.com)
+-I use a variety of languages including; Java, Javascript, C++, HTML, React.JS, Python... and more!
 
 <!--
 **ZacPJ/ZacPJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
