@@ -1,5 +1,4 @@
 ## Welcome!
-- I am currently learning Java development with [Sparta Global](https://www.spartaglobal.com)
 - I use a variety of languages including; Java, Javascript, C++, HTML, React.JS, Python... and more!
 
 <!--
